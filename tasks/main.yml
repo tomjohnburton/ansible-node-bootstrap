@@ -1,0 +1,5 @@
+---
+# tasks file for node-bootstrap
+- hosts: localhost
+  tasks:
+    - command: echo Hi
